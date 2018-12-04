@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    /* float: left; */
+    margin: 0px;
+}
+.container1{
+    float: none;
+    height: 100vh;
+   
+    
+}
+.nav{
+    width: 20%;
+    background-color: rgba(0, 0, 0, 0.527);
+    max-width: 400px;
+    float: left;
+    height: 100vh;
+}
+.container{
+    width: 80%;
+    float: left;
+}
+.container>.head{
+    float: left;
+    height: 200px;
+    width: 100%;
+    background-color: beige
+}
+.container>.footer{
+    float: left;
+    height: 200px;
+    width: 100%;
+    background-color: beige
+}
+.container>.content{
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: rgb(116, 49, 49)
+}
+.container>.sideDiv1{
+    float: left;
+    width: 20%;
+    height: 600px;
+    background-color: white
+}
