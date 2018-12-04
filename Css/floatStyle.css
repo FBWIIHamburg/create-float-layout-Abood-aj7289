@@ -2,6 +2,7 @@
     box-sizing: border-box;
     /* float: left; */
     margin: 0px;
+    overflow: hidden;
 }
     /* .container1{
         float: none;
