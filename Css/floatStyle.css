@@ -21,25 +21,25 @@
 }
 .container>.head{
     float: left;
-    height: 100px;
+    height: 10vh;
     width: 100%;
     background-color: beige
 }
 .container>.footer{
     float: left;
-    height: 100px;
+    height: 10vh;
     width: 100%;
     background-color: beige
 }
 .container>.content{
     width: 80%;
-    height: 800px;
+    height: 80vh;
     float: left;
     background-color: rgb(116, 49, 49)
 }
 .container>.sideDiv1{
     float: left;
     width: 20%;
-    height: 800px;
+    height: 80vh;
     background-color: white
 }
